@@ -24,10 +24,11 @@ Best Buy Price: 1, Best Sell Price: 9
 ```
 
 ## How to Run
-1. Download `best_trade.py`.
+1. Download `trade.py`.
 2. Run it using Python:
    ```bash
-   python best_trade.py
+   python trade.py
+   python trade.ipynb
    ```
 
 ## License
