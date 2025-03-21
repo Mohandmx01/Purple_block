@@ -23,13 +23,3 @@ print(f"Best Buy Price: {buy}, Best Sell Price: {sell}")
 Best Buy Price: 1, Best Sell Price: 9
 ```
 
-## How to Run
-1. Download `trade.py`.
-2. Run it using Python:
-   ```bash
-   python trade.py
-   python trade.ipynb
-   ```
-
-## License
-This project is free to use and modify.
